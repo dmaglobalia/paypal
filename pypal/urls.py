@@ -20,3 +20,7 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('pay.urls')),
 ]
+
+
+
+# https://youtu.be/UX_F3maOWDo  CHECK THIS VIDEO
